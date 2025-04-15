@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="WPFTODO.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WPFTODO"
+    StartupUri="View/MainWindow.xaml">
+    <Application.Resources />
+</Application>
